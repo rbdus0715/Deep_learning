@@ -1,10 +1,12 @@
 # Deep_learning
 
-### pytorch 기초
+### Pytorch base
 
-### deep learning 기초
+### Deep learning base
+- Deep Learning Zero To All (practice)
 
-### GAN
+### GAN series
+- studying hard
+- Generative adversarial network
 
 ### 논문 읽기
-
